@@ -126,7 +126,5 @@ Cela nous laisse entrevoir les résultats que l'on peut obtenir si l'on devient 
 - de réduire les efforts de mémorisation,
 - d'attacher du sens à ce que nous étudions,
 
-Maintenant que tout cela a ete dit nous pouvons passer a notre systeme robuste, simple, flexible et performant de prise de note.
-
-## Notre systeme
+Maintenant que nous avons etabli, l'importance d'un systeme de note et de son efficacite nous verons dans le prochaine article comment mettre en place l'un des systeme les plus sophistique mais simple dans le prochaine article. 
 
