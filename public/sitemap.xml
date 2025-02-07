@@ -3,7 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:33153/</loc>
+    <loc>https://example.org/posts/1738945473652-1-4-productivite-notetaking/</loc>
+    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://example.org/</loc>
+    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
