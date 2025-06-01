@@ -2,8 +2,8 @@
 title: "Outils vers la productivite 1/4 : La prise de note"
 date: 2025-02-07
 draft: false
-description: "a description"
-tags: ["example", "tag"]
+description: "L'importance de la prise de note"
+tags: ["productivity", "note-taking"]
 ---
 
 _\_La prise de notes, point de départ de notre pensée : apprendre à écrire, c'est apprendre à penser._
