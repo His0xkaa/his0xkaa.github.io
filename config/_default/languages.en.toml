@@ -1,0 +1,17 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "user1 - OSINT, Psychology, Productivity"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "infosec and intelligence analyst - Teacher "
+
+["params.author"]
+name = "user1"
+image = "6e30bb8d4d46434530efbece0cc25656.jpg"
+headline = "infosec and intelligence analyst - Opsec enjoyer actually learning violin and piano."
