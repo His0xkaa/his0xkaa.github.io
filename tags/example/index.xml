@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example on user1 - OSINT, Psychology, Productivity</title>
+    <link>http://localhost:40971/tags/example/</link>
+    <description>Recent content in Example on user1 - OSINT, Psychology, Productivity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 user1</copyright>
+    <lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:40971/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Prise de note dans l&#39;apprentissage</title>
+      <link>http://localhost:40971/posts/1763928010699-prise-de-note-dans-lapprentissage/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:40971/posts/1763928010699-prise-de-note-dans-lapprentissage/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40971/posts/1763928010699-prise-de-note-dans-lapprentissage/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
