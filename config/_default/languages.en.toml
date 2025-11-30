@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "user1 - OSINT, Psychology, Productivity"
+title = "user1 - OSINT | Psychology | Productivity"
 
 [params]
 displayName = "EN"
